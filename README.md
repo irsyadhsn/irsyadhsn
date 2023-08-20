@@ -1,6 +1,6 @@
 <!-- **irsyadhsn/irsyadhsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-## About Me 
+## About me 
 Hi, I'm an enthusiastic Software Developer that currently interested in learning React and Kotlin <br>
 
 🙋‍♂️ - People call me **Irsyad** <br>
@@ -10,7 +10,7 @@ Hi, I'm an enthusiastic Software Developer that currently interested in learning
 
 ## Reach me
 Feel free to reach me on
-- <a href="https://www.linkedin.com/in/muhammad-irsyad-hasanuddin-9749a9214/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/muhammad-irsyad-hasanuddin-9749a9214/">linkedIn</a>
 - irsyadhs2003@gmail.com
 
 ## Github Statistic
