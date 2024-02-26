@@ -3,15 +3,20 @@
 ## About me 
 Hi, I'm an enthusiastic Software Developer that currently interested in learning React and Kotlin <br>
 
-🙋‍♂️ - People call me **Irsyad** <br>
-🔭 - Undergraduate Informatics Student <br>
-🖥️ - Current interest is learning React and Kotlin <br>
-📫 - How to reach me: irsyadhs2003@gmail.com <br>
+🙋‍♂️ - People call me **Irsyad** <be> <br>
+🔭 - Undergraduate Informatics Student <be> <br>
+🖥️ - Current interest in Application Development <br> <br>
+📫 - How to reach me: irsyadhs2003@gmail.com <br> <br>
 
 ## Reach me
-Feel free to reach me on
-- <a href="https://www.linkedin.com/in/muhammad-irsyad-hasanuddin-9749a9214/">linkedIn</a>
-- irsyadhs2003@gmail.com
+Feel free to reach me :
+ <a href="https://www.linkedin.com/in/mirsyadhsn/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+<!--
+  - <a href="https://www.linkedin.com/in/muhammad-irsyad-hasanuddin-9749a9214/">linkedIn</a>
+  - irsyadhs2003@gmail.com
+-->
 
 ## Github Statistic
 <p align="left">
