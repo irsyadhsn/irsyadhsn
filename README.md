@@ -1,4 +1,5 @@
 <!-- **irsyadhsn/irsyadhsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# Hi Everyone👋 
 
 ## About me 
 🙋‍♂️  People call me **Irsyad** <br> 
@@ -21,7 +22,7 @@
 ## Github Statistic
 <p align="left">
 <a href="https://github.com/irsyadhsn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irsyadhsn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irsyadhsn&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irsyadhsn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadhsn&layout=compact&theme=tokyonight&hide_border=true&text_bold=true"/>
 </a>
 </p>
