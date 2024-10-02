@@ -19,9 +19,10 @@
 ## Current Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,golang,kotlin,python,c,cpp,mysql,react,nodejs,express,postman,git,github,vscode,androidstudio&perline=8)](https://skillicons.dev)
 
-## Github Statistic
+## Github Statistics
 <p align="left">
 <a href="https://github.com/irsyadhsn">
- 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irsyadhsn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadhsn&layout=compact&theme=tokyonight&hide_border=true&text_bold=true"/>
 </a>
 </p>
