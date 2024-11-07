@@ -23,6 +23,6 @@
 <p align="left">
 <a href="https://github.com/irsyadhsn">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irsyadhsn&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadhsn&layout=compact&theme=dark&hide_border=true&bold_text=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadhsn&layout=compact&theme=dark&hide_border=true&bold_text=false"/>
 </a>
 </p>
