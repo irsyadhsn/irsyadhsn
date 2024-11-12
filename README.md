@@ -4,8 +4,8 @@
 ## About me 
 🙋‍♂️  People call me **Irsyad** <br> 
 🔭  Undergraduate Informatics Student <br> 
-🖥️  Current interest in Software Development <br> 
-📫  How to reach me: irsyadhs2003@gmail.com <br> 
+🖥️  Current interest in Software Engineering, Backend Development, and DevOps <br> 
+📫  Contact me: irsyadhs2003@gmail.com <br> 
 
 ## Reach me
  <a href="https://www.linkedin.com/in/mirsyadhsn/">
@@ -17,7 +17,7 @@
 -->
 
 ## Current Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,golang,kotlin,python,c,cpp,mysql,react,nodejs,express,postman,git,github,vscode,androidstudio&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,golang,python,postgresql,mysql,react,nextjs,nodejs,express,docker,nginx,postman,git,github,neovim,vscode,ubuntu,linux&perline=9)](https://skillicons.dev)
 
 ## Github Statistics
 <p align="left">
