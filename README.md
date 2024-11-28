@@ -4,7 +4,7 @@
 ## About me 
 🙋‍♂️  People call me **Irsyad** <br> 
 🔭  Undergraduate Informatics Student <br> 
-🖥️  Current interest in Software Engineering, Backend Development, and DevOps <br> 
+🖥️  Current interest in Software Development, Backend Development, and DevOps <br> 
 📫  Contact me: irsyadhs2003@gmail.com <br>
 
 ## More About me
