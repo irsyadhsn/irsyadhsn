@@ -35,7 +35,7 @@
 ## <samp align="top"> About Me </samp> <img align="top" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="35" height="35"/> 
 ###  <samp> Developer / Programmer </samp>  
 <!--Start Intro-->        
-🙋‍♂️  People call me **Irsyad**<br>
+💁  People call me **Irsyad**<br>
 🔭  Undergraduate Comp Sci Student <br>
 🖥️ Current interest in Software Development, Backend Development, and DevOps <br>
 🌱 Enjoying in developing, programming, and learning :) <br>
