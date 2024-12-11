@@ -25,10 +25,10 @@
 </p>
 
 <div align="center">
- <img href="https://www.linkedin.com/in/mirsyadhsn/" src="https://skillicons.dev/icons?i=linkedin" width="25" height="25" />
- <img href="mailto:irsyadhs2003@gmail.com" src="https://skillicons.dev/icons?i=gmail" width="25" height="25" />
- <img href="https://github.com/irsyadhsn" src="https://skillicons.dev/icons?i=github" width="25" height="25" />
- <img href="https://www.instagram.com/itsirsyad_/" src="https://skillicons.dev/icons?i=instagram" width="25" height="25"/>
+  <a href="https://www.linkedin.com/in/mirsyadhsn/" /><img src="https://skillicons.dev/icons?i=linkedin" width="25" height="25" /></a>
+  <a href="mailto:irsyadhs2003@gmail.com" /><img src="https://skillicons.dev/icons?i=gmail" width="25" height="25" /></a>
+  <a href="https://github.com/irsyadhsn" /><img src="https://skillicons.dev/icons?i=github" width="25" height="25" /></a>
+  <a href="https://www.instagram.com/itsirsyad_/" /><img src="https://skillicons.dev/icons?i=instagram" width="25" height="25" /></a>
 </div> 
 
 <!--Header Name-->
