@@ -37,7 +37,7 @@
 <!--Start Intro-->        
 💁  People call me **Irsyad**<br>
 🔭  Undergraduate Comp Sci Student <br>
-🖥️ Current interest in Software Development, Backend Development, and DevOps <br>
+🖥️ Current interest in Backend Development, DevOps and Data Engineering <br>
 🌱 Enjoying in developing, programming, and learning :) <br>
 📫  Contact me: irsyadhs2003@gmail.com <br>
 <!--End Intro-->
