@@ -41,7 +41,7 @@
 📫  Contact me: irsyadhs2003@gmail.com <br>
 <!--End Intro-->
 
-## <samp align="top"> Tech Stack </samp>      <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="40" height="40" />
+## <samp align="top"> What I Use </samp>      <img src="https://camo.githubusercontent.com/748433fbf833d18f543ad4bb6d8c8c4f7f340c7fe8b9706df131a525049f0c8c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966" width="40" height="40" />
 [![My Skills](https://skillicons.dev/icons?i=typescript,golang,python,postgresql,mysql,react,nextjs,nodejs,express,docker,nginx,postman,bash,git,neovim,vscode,ubuntu,linux&perline=9)](https://skillicons.dev)
 
 ## <samp> Github Statistics </samp>
