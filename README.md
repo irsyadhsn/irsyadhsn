@@ -17,16 +17,14 @@
 <!--End Intro-->
 
 ## <samp align="top"> what i use </samp>
-[![My Skills](https://skillicons.dev/icons?i=typescript,golang,python,postgresql,mysql,react,nextjs,nodejs,express,docker,nginx,postman,bash,git,neovim,vscode,ubuntu,linux&perline=9)](https://skillicons.dev)
+###  <samp> language </samp>  
+[![Language](https://skillicons.dev/icons?i=golang,javascript,typescript,python)](https://skillicons.dev)
+###  <samp> data </samp>  
+[![Database](https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb)](https://skillicons.dev)
+###  <samp> tools </samp>  
+[![Database](https://skillicons.dev/icons?i=nodejs,bash,docker,jenkins,kafka,gcp)](https://skillicons.dev)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irsyadhsn&show_icons=true&theme=gotham&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadhsn&layout=compact&theme=gotham&hide_border=true&bold_text=false"/>
 </p>
-
-## <samp> reach me </samp>
-<div>
-  <a href="https://www.linkedin.com/in/mirsyadhsn/" /><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:mirsyadhsn@gmail.com" /><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/irsyadhs_/" /><img src="https://skillicons.dev/icons?i=instagram"/></a>
-</div> 
