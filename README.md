@@ -17,14 +17,13 @@
 <!--End Intro-->
 
 ## <samp align="top"> what i use </samp>
-###  <samp> language </samp>  
-[![Language](https://skillicons.dev/icons?i=golang,javascript,typescript,python)](https://skillicons.dev)
-###  <samp> data </samp>  
-[![Database](https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb)](https://skillicons.dev)
-###  <samp> tools </samp>  
-[![Database](https://skillicons.dev/icons?i=nodejs,bash,docker,jenkins,kafka,gcp)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=golang,javascript,typescript,python)](https://skillicons.dev) <br>
+[![Database](https://skillicons.dev/icons?i=postgresql,mysql,redis,mongodb)](https://skillicons.dev) <br>
+[![Database](https://skillicons.dev/icons?i=bash,docker,kafka,gcp,jenkins)](https://skillicons.dev) <br>
 
+<!--
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irsyadhsn&show_icons=true&theme=gotham&hide_border=true&rank_icon=github&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsyadhsn&layout=compact&theme=gotham&hide_border=true&bold_text=false"/>
 </p>
+-->
