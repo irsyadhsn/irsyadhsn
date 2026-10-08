@@ -17,7 +17,7 @@
 <!--End Intro-->
 
 ## <samp align="top"> what i use </samp>
-[![Language](https://skillicons.dev/icons?i=java,python,typescript,golang,postgresql,mysql,redis,mongodb,bash,docker,kafka,aws,gitlab)](https://skillicons.dev) <br>
+[![Language](https://skillicons.dev/icons?i=java,python,typescript,golang,postgresql,mysql,redis,bash,docker,kafka,aws,gitlab)](https://skillicons.dev) <br>
 
 <!--
 <p align="left">
